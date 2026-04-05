@@ -7,6 +7,7 @@ The dashboard provides a comprehensive view of emergency room activities, helpin
 It is designed to support data-driven decision-making in healthcare by identifying bottlenecks and improving patient experience.
 
 STEPS IN PROJECT:-
+
 1.Requirement Gathering/ Business Requirements
 
 2.Data Walkthrough
