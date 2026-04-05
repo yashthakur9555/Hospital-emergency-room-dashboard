@@ -48,6 +48,7 @@ Charts to Develop:-
 1. Operational Performance:-
 
 ⚖️ What percentage of patients are admitted vs non-admitted?
+
 📊 Are more patients being discharged than admitted?
 
 2. Time-Based Analysis:-
